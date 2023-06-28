@@ -2,7 +2,7 @@
 
 - 🏢 I’m currently working as a **Game Server Developer** at [**Hoàng Linh Online**](https://hoanglinhonline.com)
 
-### 📫 How to reach me:
+### 📫 How to reach me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanhnam2811)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhnam.thai01@gmail.com)&nbsp;
