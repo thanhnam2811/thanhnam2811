@@ -1,6 +1,18 @@
 <div align="center">
-  <img src="profile-banner.png" alt="Game Server Developer Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Thai+Thanh+Nam;Game+Server+Developer+🎮;Node.js+%26+WebSocket+Expert+🚀;Building+Scalable+Backends+🛠️" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanhnam2811&label=PROFILE+VIEWS&color=61DAFB&style=flat-square" alt="Visitor Counter" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
+
+---
 
 ### 👨‍💻 About Me
 
@@ -8,7 +20,7 @@
 - 🚀 Passionate about building high-performance, scalable game backends and real-time networking systems.
 - 🛠️ Currently focusing on optimizing Node.js performance and microservices architecture for gaming.
 
-### 👩‍💻 Technologies & Tools
+### ‍💻 Technologies & Tools
 
 <table>
   <tr>
@@ -19,7 +31,7 @@
       <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Typescript">&nbsp;
       <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">&nbsp;
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">&nbsp;
-      <img src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket">
+      <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
     </td>
     <td valign="top" width="50%">
       <b>Frontend & UI</b><br/>
@@ -31,9 +43,10 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b>Database</b><br/>
+      <b>Database & Tools</b><br/>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
-      <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server">
+      <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server">&nbsp;
+      <img src="https://img.shields.io/badge/-SVN-444444?style=flat-square&logo=subversion&logoColor=white" alt="SVN">
     </td>
     <td valign="top" width="50%">
       <b>Contact & Social</b><br/>
@@ -44,11 +57,15 @@
   </tr>
 </table>
 
-### 📊 My Github Stats
+---
+
+### 📊 Github Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thanhnam2811&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=thanhnam2811&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </div>
+
+---
 
 ### 🔥 My Dev Card
 
