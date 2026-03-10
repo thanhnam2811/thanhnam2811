@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=32&pause=2000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Thai+Thanh+Nam;Game+Server+Developer+🎮;Node.js+%26+WebSocket+Expert+🚀;Building+Scalable+Backends+🛠️" alt="Typing SVG" />
+	<img src="https://typingsvg.vercel.app/api/svg?width=800&height=200&pause=2000&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Hi+there%21+%F0%9F%91%8B+I%27m+Thai+Thanh+Nam%22%2C%22font%22%3A%22Orbitron%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.02%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22Game+Server+Developer+%F0%9F%8E%AE%22%2C%22font%22%3A%22Orbitron%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.02%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22Node.js+Expert+%F0%9F%9A%80%22%2C%22font%22%3A%22Orbitron%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.02%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22Building+Scalable+Backends+%F0%9F%9B%A0%EF%B8%8F%22%2C%22font%22%3A%22Orbitron%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.02%2C%22fontWeight%22%3A%22600%22%7D%5D" alt="Typing SVG" />
 </div>
 
 <div align="center">
