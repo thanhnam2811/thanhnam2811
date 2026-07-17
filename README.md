@@ -5,6 +5,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-brightgreen?style=for-the-badge" alt="Open to Work"/>&nbsp;
   <img src="https://img.shields.io/badge/💼_Open_for_Freelance-blue?style=for-the-badge" alt="Open for Freelance"/>
+  <br/>
+  📩 Reach out via <a href="mailto:thanhnam.thai01@gmail.com">email</a> or <a href="https://www.linkedin.com/in/thanhnam2811">LinkedIn</a> — I usually reply within 24h.
 </div>
 
 <div align="center">
@@ -28,15 +30,6 @@
 - 💼 Open to full-time opportunities and freelance/contract collaborations — feel free to reach out!
 
 ### 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/thanhnam2811/matching-man">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhnam2811&repo=matching-man&theme=tokyonight&hide_border=true" alt="Matching Hub" />
-  </a>
-  <a href="https://github.com/thanhnam2811/tiny-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhnam2811&repo=tiny-link&theme=tokyonight&hide_border=true" alt="TinyLink" />
-  </a>
-</div>
 
 - 🎮 **[Matching Hub](https://github.com/thanhnam2811/matching-man)** *(side project)* — Matchmaking-as-a-Service for game servers: multi-tenant queueing, skill-based matching, Elo ratings, HMAC-signed webhooks. `NestJS` `Next.js` `Prisma` `PostgreSQL` `Docker`
 - 🔗 **[TinyLink](https://github.com/thanhnam2811/tiny-link)** — Production-grade URL shortener monorepo with click analytics, geo-tracking, bot detection, and full CI/CD to production. `Fastify` `Next.js` `Redis` `PostgreSQL`
@@ -79,6 +72,7 @@
     <td valign="top" width="50%">
       <b>Contact & Social</b><br/>
       <a href="https://namtt.dev"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>&nbsp;
+      <a href="https://namtt.dev/files/MyCV.pdf"><img src="https://img.shields.io/badge/-Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>&nbsp;
       <a href="https://www.linkedin.com/in/thanhnam2811"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
       <a href="mailto:thanhnam.thai01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
       <a href="https://www.facebook.com/thanhnam2811"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
