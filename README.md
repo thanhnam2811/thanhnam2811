@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-brightgreen?style=for-the-badge" alt="Open to Work"/>&nbsp;
+  <img src="https://img.shields.io/badge/💼_Open_for_Freelance-blue?style=for-the-badge" alt="Open for Freelance"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=thanhnam2811&label=PROFILE+VIEWS&color=61DAFB&style=flat-square" alt="Visitor Counter" />
 </div>
 
@@ -19,6 +24,23 @@
 - 🏢 **Game Server Developer** at [**Onky Studio**](https://onky.vn)
 - 🚀 Passionate about building high-performance, scalable game backends and real-time networking systems.
 - 🛠️ Currently focusing on optimizing Node.js performance and microservices architecture for gaming.
+- 🎮 Side project: built [Matching Hub](https://github.com/thanhnam2811/matching-man) — a matchmaking-as-a-service handling Elo ratings and webhook delivery for game servers.
+- 💼 Open to full-time opportunities and freelance/contract collaborations — feel free to reach out!
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/thanhnam2811/matching-man">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhnam2811&repo=matching-man&theme=tokyonight&hide_border=true" alt="Matching Hub" />
+  </a>
+  <a href="https://github.com/thanhnam2811/tiny-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhnam2811&repo=tiny-link&theme=tokyonight&hide_border=true" alt="TinyLink" />
+  </a>
+</div>
+
+- 🎮 **[Matching Hub](https://github.com/thanhnam2811/matching-man)** *(side project)* — Matchmaking-as-a-Service for game servers: multi-tenant queueing, skill-based matching, Elo ratings, HMAC-signed webhooks. `NestJS` `Next.js` `Prisma` `PostgreSQL` `Docker`
+- 🔗 **[TinyLink](https://github.com/thanhnam2811/tiny-link)** — Production-grade URL shortener monorepo with click analytics, geo-tracking, bot detection, and full CI/CD to production. `Fastify` `Next.js` `Redis` `PostgreSQL`
+- 🌐 **[Portfolio](https://namtt.dev)** — Personal site built with Next.js, GSAP scroll animations, and localization. `Next.js` `TailwindCSS` `next-intl`
 
 ### ‍💻 Technologies & Tools
 
@@ -30,6 +52,8 @@
       <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Javascript">&nbsp;
       <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Typescript">&nbsp;
       <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">&nbsp;
+      <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">&nbsp;
+      <img src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">&nbsp;
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">&nbsp;
       <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
     </td>
@@ -43,13 +67,18 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b>Database & Tools</b><br/>
+      <b>Database & DevOps</b><br/>
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
+      <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">&nbsp;
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
       <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server">&nbsp;
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">&nbsp;
       <img src="https://img.shields.io/badge/-SVN-444444?style=flat-square&logo=subversion&logoColor=white" alt="SVN">
     </td>
     <td valign="top" width="50%">
       <b>Contact & Social</b><br/>
+      <a href="https://namtt.dev"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>&nbsp;
       <a href="https://www.linkedin.com/in/thanhnam2811"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
       <a href="mailto:thanhnam.thai01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
       <a href="https://www.facebook.com/thanhnam2811"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
