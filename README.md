@@ -1,13 +1,7 @@
-<h1 align="center">Thái Thành Nam</h1>
-
-<p align="center">
-  Game Server Developer at <a href="https://onky.vn">Onky Studio</a> · Ho Chi Minh City
-</p>
-
-<p align="center">
-  I build real-time game backends in Node.js and TypeScript —<br/>
-  matchmaking, multi-tenant services and the infrastructure that keeps them fast.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Thái Thành Nam — Game Server Developer at Onky Studio. Real-time game backends in Node.js & TypeScript." width="100%">
+</picture>
 
 <p align="center">
   <a href="https://namtt.dev">Website</a> &nbsp;·&nbsp;
@@ -15,24 +9,32 @@
   <a href="https://namtt.dev/files/MyCV.pdf">Résumé</a>
 </p>
 
-<p align="center"><sub>Open to full-time roles and freelance work — LinkedIn is the best way to reach me.</sub></p>
-
-<br/>
-
 ## Selected work
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**matching-man**](https://github.com/thanhnam2811/matching-man) | Matchmaking-as-a-service for game servers: multi-tenant queues, Elo ratings, HMAC-signed webhook delivery. | NestJS · Next.js · Prisma · PostgreSQL |
-| [**gapafo**](https://github.com/thanhnam2811/gapafo) | Multi-tenant backend for reusable game services. Decisions recorded as ADRs, each phase ends with executable evidence. | Fastify · PostgreSQL · TypeScript |
-| [**tiny-link**](https://github.com/thanhnam2811/tiny-link) | Production-grade URL shortener with click analytics and CI/CD to production. | Fastify · Next.js · Redis · PostgreSQL |
-| [**namtt.dev**](https://github.com/thanhnam2811/my-portfolio) | Localized portfolio with scroll-driven animation. | Next.js · TailwindCSS · GSAP |
-
-<br/>
+<p align="center">
+  <a href="https://github.com/thanhnam2811/matching-man"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-matching-man-dark.svg">
+    <img src="assets/card-matching-man-light.svg" alt="matching-man — matchmaking-as-a-service for game servers" width="49%">
+  </picture></a>
+  <a href="https://github.com/thanhnam2811/gapafo"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-gapafo-dark.svg">
+    <img src="assets/card-gapafo-light.svg" alt="gapafo — multi-tenant backend for reusable game services" width="49%">
+  </picture></a>
+  <a href="https://github.com/thanhnam2811/tiny-link"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-tiny-link-dark.svg">
+    <img src="assets/card-tiny-link-light.svg" alt="tiny-link — production-grade URL shortener" width="49%">
+  </picture></a>
+  <a href="https://github.com/thanhnam2811/my-portfolio"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-namtt-dev-dark.svg">
+    <img src="assets/card-namtt-dev-light.svg" alt="namtt.dev — localized portfolio" width="49%">
+  </picture></a>
+</p>
 
 ## Stack
 
-**Backend** &nbsp; Node.js · TypeScript · NestJS · Fastify · Express · Socket.IO<br/>
-**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PostgreSQL · Redis · Prisma · MySQL<br/>
-**Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker · GitHub Actions<br/>
-**Frontend** &nbsp; Next.js · React · TailwindCSS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Node.js, TypeScript, NestJS, Fastify, Socket.IO, PostgreSQL, Redis, Prisma, Docker, GitHub Actions, Next.js, React" width="100%">
+</picture>
+
+<p align="center"><sub>Open to full-time and freelance work — LinkedIn is the best way to reach me.</sub></p>
